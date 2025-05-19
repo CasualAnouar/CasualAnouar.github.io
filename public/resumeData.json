@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name": "Anouar DADAs",
+    "occupation": "Full Stack Developer",
+    "description": "Passionate about building modern web applications.",
+    "image": "profilepic.jpg",
+    "bio": "Hello! I'm Anouar DADAs. I love solving problems with code and have experience working with a variety of technologies. Always eager to learn and contribute to impactful projects.",
+    "contactmessage": "Feel free to reach out to collaborate on exciting projects!",
+    "email": "your.email@example.com",
+    "phone": "+212 600000000",
+    "address": {
+      "street": "456 Code Avenue",
+      "city": "Casablanca",
+      "state": "Morocco",
+      "zip": "20000"
+    },
+    "website": "https://yourwebsite.com",
+    "resumedownload": "https://yourwebsite.com/resume.pdf",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/CasualAnouar",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anouar-dadas",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Your University Name",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Month Year",
+        "description": "Brief description or honors received."
+      }
+    ],
+    "work": [
+      {
+        "company": "Your Company",
+        "title": "Your Role",
+        "years": "Start Date - End Date / Present",
+        "description": "Describe your responsibilities and achievements."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Personal Portfolio",
+        "category": "Web Development",
+        "image": "portfolio.jpg",
+        "url": "https://yourwebsite.com"
+      },
+      {
+        "title": "Awesome Project",
+        "category": "Full Stack",
+        "image": "project.jpg",
+        "url": "https://github.com/CasualAnouar/your-project"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Anouar is a dedicated developer with a keen eye for detail. Highly recommended!",
+        "user": "Colleague Name"
+      },
+      {
+        "text": "Working with Anouar was a great experience. Professional and knowledgeable.",
+        "user": "Client Name"
+      }
+    ]
+  }
+}
